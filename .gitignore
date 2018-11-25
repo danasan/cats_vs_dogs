@@ -1,0 +1,6 @@
+.DS_Store
+train/
+test/
+env/
+.ipynb_checkpoints/
+.git/
